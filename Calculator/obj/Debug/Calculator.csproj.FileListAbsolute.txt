@@ -1,0 +1,10 @@
+C:\YUSUF\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\YUSUF\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\YUSUF\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\YUSUF\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\YUSUF\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\YUSUF\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\YUSUF\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\YUSUF\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\YUSUF\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\YUSUF\Calculator\Calculator\obj\Debug\Calculator.pdb
